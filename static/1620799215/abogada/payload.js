@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/abogada", {data:[{}],fetch:{},mutations:[]});
